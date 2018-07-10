@@ -1,2 +1,0 @@
-# javafx-business
-Administrador empresarial

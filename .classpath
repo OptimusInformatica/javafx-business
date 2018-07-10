@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resourses"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/brasilio/Projetos/java-libs/log4j-api-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/brasilio/Projetos/java-libs/log4j-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/brasilio/Projetos/java-libs/mariadb-java-client-2.2.5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/business.empresas"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/business.clientes"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/business.produtos"/>
+	<classpathentry kind="lib" path="/home/brasilio/Projetos/java-libs/controlsfx-8.40.14.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/br.com.optimus"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
